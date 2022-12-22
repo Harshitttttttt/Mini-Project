@@ -1,2 +1,2 @@
 # Mini-Project
-A java project on implementing searching techniques and Merging two singly linked lists.
+A java project on implementing searching techniques on a Doubly Linked List and Merging two Singly Linked Lists.
